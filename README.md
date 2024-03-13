@@ -1,4 +1,4 @@
-<pre># &#1F1FF; &#1F1E6; Willem Swanepoel 🇦🇺</pre>
+<pre># &#1F1FF; &#1F1E6; Willem Swanepoel :australia:</pre>
 
 ### Hi there 👋
 
