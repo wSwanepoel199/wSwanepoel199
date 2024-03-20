@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-![wSwanepoel199's GitHub stats](https://github-readme-stats.vercel.app/api?username=wSwanepoel199&show_icons=true&theme=highcontrast)  
-[<sup>Readme-Stats by Anuraghazra</sup>](https://github.com/anuraghazra/github-readme-stats)
+![wSwanepoel199's GitHub stats](https://github-readme-stats.vercel.app/api?username=wSwanepoel199&show_icons=true&theme=highcontrast){:target="_blank"}  
+[<sup>Readme-Stats by Anuraghazra</sup>](https://github.com/anuraghazra/github-readme-stats){:target="_blank"}
 
