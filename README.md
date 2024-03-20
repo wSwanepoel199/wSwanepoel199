@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-<sub><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Readme-Stats by Anuraghazra</a></sub>
+<sub><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" style='display:block;'>Readme-Stats by Anuraghazra</a></sub>
 ![wSwanepoel199's GitHub stats](https://github-readme-stats.vercel.app/api?username=wSwanepoel199&show_icons=true&theme=highcontrast)
