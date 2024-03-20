@@ -1,4 +1,4 @@
-<base target="_blank"/>
+<base target="_blank">
 # Willem Swanepoel
 
 **`Digital Craftsman (Frontend/Backend/FullStack)`**
